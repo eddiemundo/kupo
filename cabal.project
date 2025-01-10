@@ -79,7 +79,7 @@ source-repository-package
   -- far. So if someone needs this, feel free to make a PR. And I'd
   -- welcome any *reproducible* command I can run to re-generate those in
   -- the future.
-  --sha256: m/l5XUzb9EG/qTMeHnxT/orfqrjPgOr+9Rns+zQr/CA=
+  --sha256: xkOfOdX6Dxi7+VW78Tk3n3MoguIg39pKdxiNVfdeEwE=
   subdir:
     server/modules/fast-bech32
 
